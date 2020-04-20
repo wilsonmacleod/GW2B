@@ -11,5 +11,5 @@ Check out the site ~~#[**here**](https://gw2b.wilsonmacleod.com/)~~
 
 ## The site has been taken down for an update/refactor, my intention is to rewrite most of the site, update the database to reflect recent game patches and make the source code public-facing.
 
-Here is a gif of when it was in  production. ![Alt Text](https://github.com/wilsonmacleod/GW2B/blob/gw2b.gif)
+Here is a gif of when it was in  production. ![Alt Text](gw2b.gif)
 
